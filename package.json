@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/arjungupta-15/freelancer1#readme",
+  "bugs": {
+    "url": "https://github.com/arjungupta-15/freelancer1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjungupta-15/freelancer1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
